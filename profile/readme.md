@@ -1,5 +1,5 @@
 
-<img src="https://i.imghippo.com/files/BW3642Ww.png" width="600">
+<img src="https://i.imghippo.com/files/BW3642Ww.png" width="800">
 
 
 
@@ -32,11 +32,6 @@ Coders Hub is a Discord community and programming team that aims to make program
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=icoders4hub&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## Top Repositories
-![](https://github-contributor-stats.vercel.app/api?username=icoders4hub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
